@@ -1,1 +1,1 @@
-# TYMC.github.io
+# tymc.github.io
